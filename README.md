@@ -12,3 +12,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 Ant design 
 https://ant.design/docs/react/introduce
+
+git add .
+git commit -m "save note"
+git push -u origin main
