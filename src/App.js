@@ -7,7 +7,7 @@ function App() {
     <div>
           <div className="container">
               <Switch>
-                  <Route exact path="/markyu" render={() => (<Home/>)} />
+                  <Route exact path="/JinghaoXu" render={() => (<Home/>)} />
               </Switch>
           </div>
     </div>
