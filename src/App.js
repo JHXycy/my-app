@@ -7,7 +7,7 @@ function App() {
     <div>
           <div className="container">
               <Switch>
-                  <Route exact path="/JinghaoXu" render={() => (<Home/>)} />
+                  <Route exact path="/my-app" render={() => (<Home/>)} />
               </Switch>
           </div>
     </div>

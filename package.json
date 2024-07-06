@@ -1,8 +1,8 @@
 {
-  "name": "markyu",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JHXycy.github.io/JinghaoXu",
+  "homepage": "http://JHXycy.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
